@@ -17,8 +17,8 @@
 - [System Requirements](#system-requirements)
 - [Getting Help](#getting-help)
 - [Releases](#releases)
-- [Simulation Tools](#simulation-tools)
 - [Computing Resources](#computing-resources)
+- [Simulation Tools](#simulation-tools)
 - [Summary of Past Challenges](#summary-of-past-challenges)
 
 ## Introduction
@@ -47,13 +47,13 @@ Please submit a new issue in the [cosipy](https://github.com/cositools/cosipy) g
 - Data challenge 4: Planned for March 2026
 - Data challenge 5: Planned for March 2027 (final challenge before launch :rocket:!)
 
-## Simulation Tools
-
 ## Computing Resources
 <div align="center">
 <img width="1050"  src="static/clusters2.png">
 <div align="left">
   
 The simulations for the COSI data challenges are ran on high performance computing clusters. Most notably, we have made extensive use of NASA's [Discover cluster](https://www.nccs.nasa.gov/systems/discover), the [MOGON](https://mogonwiki.zdv.uni-mainz.de/docs/introduction/what_is_mogon) cluster in Mainz, and Clemson University's [Palmetto](https://docs.rcd.clemson.edu/palmetto/) cluster. 
+
+## Simulation Tools
 
 ## Summary of Past Challenges 
