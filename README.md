@@ -17,7 +17,7 @@
 - [Releases](#releases)
 - [Simulation Tools](#simulation-tools)
 - [Computing Resources](#computing-resources)
-- [Summary of Challenges](#summary-of-challenges)
+- [Summary of Past Challenges](#summary-of-past-challenges)
 
 ## Introduction
 The COSI data challenges are released on a yearly basis in preparation for the launch of the COSI SMEX mission. They are based on simulated data, which is intended to closely mimic the real flight data. Every year the data challenges have increasingly more realistic source and background models, and they are analyzed with increasingly complete and matured analysis tools. In general there are two main goals of the data challenges:
@@ -48,4 +48,4 @@ The COSI data challenges are released on a yearly basis in preparation for the l
   
 The simulations for the COSI data challenges are ran on high performance computing clusters. Most notably, we have made extensive use of NASA's [Discover cluster](https://www.nccs.nasa.gov/systems/discover), the [MOGON](https://mogonwiki.zdv.uni-mainz.de/docs/introduction/what_is_mogon) cluster in Mainz, and Clemson University's [Palmetto](https://docs.rcd.clemson.edu/palmetto/) cluster. 
 
-## Summary of Challenges 
+## Summary of Past Challenges 
