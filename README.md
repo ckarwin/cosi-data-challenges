@@ -108,9 +108,11 @@ The simulations for the COSI data challenges are ran on high performance computi
     - New Extended source response class.
 ## Useful Reference Guides
 - **General Introduction to analyzing data from a Compton telescopes and the Compton data space:**
-  - See main readme from [cosi-data-challenge-1](cosi-data-challenge-1).  
+  - See main README from [cosi-data-challenge-1](cosi-data-challenge-1)
+- **Analysis of data from the 2016 COSI balloon flight:**
+  - [cosi-data-challenge-1/cosi_2016_balloon_data](cosi-data-challenge-1/cosi_2016_balloon_data)
 - **General Introduction to cosipy:**
-  - [cosi-data-challenge-2/cosipy-intro](cosi-data-challenge-2/cosipy-intro).
+  - [cosi-data-challenge-2/cosipy-intro](cosi-data-challenge-2/cosipy-intro)
  - **Executive summary of the background simulations from data challenge 2:**
-   - [cosi-data-challenge-2/backgrounds](cosi-data-challenge-2/backgrounds). 
+   - [cosi-data-challenge-2/backgrounds](cosi-data-challenge-2/backgrounds) 
 ## Citing 
