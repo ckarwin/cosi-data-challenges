@@ -10,7 +10,7 @@
 
 <div align="left">
 
-## Table Of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
