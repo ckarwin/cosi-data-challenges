@@ -16,7 +16,7 @@
 - [Getting Started](#getting-started)
 - [Releases](#releases)
 - [Simulation Tools](#simulation-tools)
-- [Computational Resources](#computational-resources)
+- [Computing Resources](#computing-resources)
 - [Summary of Challenges](#summary-of-challenges)
 
 ## Introduction
@@ -41,6 +41,9 @@ The COSI data challenges are released on a yearly basis in preparation for the l
 
 ## Simulation Tools
 
-## Computational Resources
+## Computing Resources
+<img  align="right" width="250"  src="images/clusters.png">
+
+The source simulations were ran on NASA's [Discover cluster](https://www.nccs.nasa.gov/systems/discover). We used 1000 parallel CPUs for most of the source simulations, which allowed us to simulate them in a fairly short time (typically less than ~10 minutes of total wall time per source). The source models were provided by the COSI science teams, and more information about them can be found in the respective **Data Challenges** section on the main page. The Background simulations were ran on the [MOGON](https://mogonwiki.zdv.uni-mainz.de/docs/introduction/what_is_mogon) cluster in Mainz and Clemson University's [Palmetto](https://docs.rcd.clemson.edu/palmetto/) cluster. Simulations of the backgrounds were highly computationally intensive. The most time-consuming simulations were the primary protons, which required 57.5 years of CPU time! This was accomplished by using 6045 parallel cores. More details about the background simulations can be found in the [backgrounds](https://github.com/cositools/cosi-data-challenge-2/tree/main/backgrounds) directory.
 
 ## Summary of Challenges 
