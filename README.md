@@ -14,6 +14,8 @@
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
+- [System Requirements](#system-requirements)
+- [Getting Help](#getting-help)
 - [Releases](#releases)
 - [Simulation Tools](#simulation-tools)
 - [Computing Resources](#computing-resources)
@@ -30,6 +32,12 @@ The COSI data challenges are released on a yearly basis in preparation for the l
    - Public releases help with community building before COSI data is released. 
 
 ## Getting Started
+
+## System Requirements
+One of our goals in developing cosipy is to make it easily accesible to all users. **All of the data challenges starting with DC2 should be doable on a laptop with at least 16 GB of RAM**. We are still working on optimizing the code, and so please let us know if you are running into memory issues. 
+
+## Getting Help
+Please submit a new issue in the [cosipy](https://github.com/cositools/cosipy) git repository if you have issues with cosipy. If you have general feedback, or need further assistance, please reach out to the COSI Data Challenge team lead, Chris Karwin ([christopher.m.karwin@nasa.gov](mailto:christopher.m.karwin@nasa.gov)), the cosipy implementation lead, Israel Martinez-Castellanos ([israel.martinezcastellanos@nasa.gov](israel.martinezcastellanos@nasa.gov)), and the pipeline development lead Carolyn Kierans ([carolyn.a.kierans@nasa.gov](carolyn.a.kierans@nasa.gov)).
 
 ## Releases
 
