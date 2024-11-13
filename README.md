@@ -116,4 +116,6 @@ The simulations employ [MEGAlib](https://github.com/zoglauer/megalib) via the Py
   - [cosi-data-challenge-2/cosipy-intro](cosi-data-challenge-2/cosipy-intro)
  - **Executive summary of the background simulations from data challenge 2:**
    - [cosi-data-challenge-2/backgrounds](cosi-data-challenge-2/backgrounds) 
+
 ## Citing 
+If you make use of any of the data products from the COSI data challenges in a publication, please consider providing a link to this page in the paper. 
