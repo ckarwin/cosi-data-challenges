@@ -28,3 +28,9 @@ The COSI data challenges are released on a yearly basis in preparation for the l
    - Public releases help with community building before COSI data is released. 
    
 ## Releases
+
+- Data challenge 1, March 2023: [cosi-data-challenge-2](cosi-data-challenge-2)
+- Data challenge 2, March 2024: [cosi-data-challenge-2](cosi-data-challenge-2)
+- Data challenge 3: **Coming March 2025!**
+- Data challenge 4: Planned for March 2026
+- Data challenge 5: Planned for March 2027 (final challenge before launch!)
