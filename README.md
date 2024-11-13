@@ -19,7 +19,7 @@
 - [Releases](#releases)
 - [Computing Resources](#computing-resources)
 - [Simulation Tools](#simulation-tools)
-- [Executive Summary of Past Challenges](#executive-summary-of-past-challenges)
+- [Executive Summary of Current and Past Challenges](#executive-summary-of-current-and-past-challenges)
 - [Useful Reference Guides](#useful-reference-guides)
 - [Citing](#citing)
 
@@ -58,7 +58,7 @@ The simulations for the COSI data challenges are ran on high performance computi
 
 ## Simulation Tools
 
-## Executive Summary of Past Challenges 
+## Executive Summary of Current and Past Challenges 
 - **[Data Challenge 1](cosi-data-challenge-1):**
   - Focus: 2016 COSI Balloon flight.
   - Release includes real flight data for the Crab.
