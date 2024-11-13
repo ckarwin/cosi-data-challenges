@@ -99,7 +99,13 @@ The simulations for the COSI data challenges are ran on high performance computi
     - Background includes the Galactic diffuse continuum for the first time. 
   - New methods in both MEGAlib and cosipy to account for Earth occultation with a non-zenith pointing. 
   - First time including polarization.
-  - New methods to estimate the background for continuum sources, line sources, and transient sources. 
+  - Numerous improvements to cosipy:
+    - First version of source injector.
+    - New implementation of Earth occultation in detector response.
+    - First polarization tools.
+    - New methods to estimate the background for continuum sources, line sources, and transient sources.
+    - Refinements and furhter developments of imaging class.
+    - New Extended source response class.
 ## Useful Reference Guides
 
 ## Citing 
