@@ -13,8 +13,6 @@
 ## Table Of Contents
 
 - [Introduction](#introduction)
-    - test 1
-    - test 2
 - [Releases](#releases)
 
 ## Introduction
