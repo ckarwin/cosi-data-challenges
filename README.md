@@ -19,7 +19,7 @@
 - [Releases](#releases)
 - [Computing Resources](#computing-resources)
 - [Simulation Tools](#simulation-tools)
-- [Summary of Past Challenges](#summary-of-past-challenges)
+- [Executive Summary of Past Challenges](#executive-summary-of-past-challenges)
 - [Useful Reference Guides](#useful-reference-guides)
 - [Citing](#citing)
 
@@ -58,7 +58,35 @@ The simulations for the COSI data challenges are ran on high performance computi
 
 ## Simulation Tools
 
-## Summary of Past Challenges 
+## Executive Summary of Past Challenges 
+- **[Data Challenge 1](cosi-data-challenge-1):**
+  - Focus: 2016 COSI Balloon flight.
+  - Release includes real flight data for the Crab.
+  - Main goal: learn the fundamentals of analyzing Compton data with COSI.
+  - The analysis tools used for DC1 are only preliminary (referred to as cosipy classic).
+    - Developed by Thomas Siegert for analysis of the 2016 balloon data. 
+  - Contains 3 straightforward examples of COSI’s science goals:
+    - Extracting energy spectra from the Crab, Cen A, Cygnus X-1, and Vela
+    - Imaging bright point sources, such as the Crab and Cygnus X-1.
+    - Imaging diffuse emission from the positron-electron annihilation 511 keV and Al-26 1.8 MeV gamma-ray lines.
+      DC2 is publicly available: https://github.com/cositools/cosi-data-challenge-2.
+- **[Data Challenge 2](cosi-data-challenge-2):**
+  - Focused on COSI SMEX mission.
+  - First (alpha) release of cosipy. 
+  - Data challenges for all the main science groups (none for dark matter and solar)
+  - All models and challenges provided by respective COSI science teams.
+  - Uses 3 months of observations, for an equatorial orbit at 550 km, with a zenith pointing. 
+  - All BG components are included, except for SAA passage (i.e. trapped particles).
+    - BG also includes time variability from changing geomagnetic cutoff.
+  - We simulated 12 background components, and 30 unique sources, running 49 different source simulations in total (using multiple models for some of the sources).
+  - Contains 7 main tutorials demonstrating all the tools/methods needed for completing the challenges, included as part of the cosipy release:
+    - dataIO
+    - GRB localization
+    - GRB spectral fit
+    - Crab spectral fit
+    - 511 spectral fit
+    - Crab imaging
+    - 511 imaging
 
 ## Useful Reference Guides
 
