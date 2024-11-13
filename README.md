@@ -3,7 +3,7 @@
 # Welcome to the COSI Data Challenges!
 
 <p align="center">
-<img width="350"  src="logo.png">
+<img width="325"  src="logo.png">
 </p>
 
 ### latest release: [cosi-data-challenge-2](cosi-data-challenge-2)
