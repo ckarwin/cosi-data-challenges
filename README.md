@@ -34,6 +34,18 @@ The COSI data challenges are released on a yearly basis in preparation for the l
    - Public releases help with community building before COSI data is released. 
 
 ## Getting Started
+For new users, copy the COSI Data Challenge repository as follows:
+```
+git clone https://github.com/cositools/cosi-data-challenges.git
+```
+If you've already cloned the repository in the past, then simply update it if you need the latest release:
+```
+cd your/path/cosi-data-challenges
+git pull
+```
+As specified at the top of the page, the most recent release is [cosi-data-challenge-2](cosi-data-challenge-2). Everything you need for this data challenge is contained in the linked directory. Head there to get started. 
+
+Alternatively, this repository also contains all past data challenges, as specified in the [Releases](#releases) section below. Each released data challenge is self-contained, and you will find everything you need to get started in the respective directory. 
 
 ## System Requirements
 One of our goals in developing cosipy is to make it easily accesible to all users. **All of the data challenges starting with DC2 should be doable on a laptop with at least 16 GB of RAM**. We are still working on optimizing the code, and so please let us know if you are running into memory issues. 
