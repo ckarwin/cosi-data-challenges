@@ -69,7 +69,6 @@ The simulations for the COSI data challenges are ran on high performance computi
     - Extracting energy spectra from the Crab, Cen A, Cygnus X-1, and Vela
     - Imaging bright point sources, such as the Crab and Cygnus X-1.
     - Imaging diffuse emission from the positron-electron annihilation 511 keV and Al-26 1.8 MeV gamma-ray lines.
-      DC2 is publicly available: https://github.com/cositools/cosi-data-challenge-2.
 - **[Data Challenge 2](cosi-data-challenge-2):**
   - Focused on COSI SMEX mission.
   - First (alpha) release of cosipy. 
