@@ -57,6 +57,7 @@ Please submit a new issue in the [cosipy](https://github.com/cositools/cosipy) g
 The simulations for the COSI data challenges are ran on high performance computing clusters. Most notably, we have made extensive use of NASA's [Discover cluster](https://www.nccs.nasa.gov/systems/discover), the [MOGON](https://mogonwiki.zdv.uni-mainz.de/docs/introduction/what_is_mogon) cluster in Mainz, and Clemson University's [Palmetto](https://docs.rcd.clemson.edu/palmetto/) cluster. 
 
 ## Simulation Tools
+The simulations employ [MEGAlib](https://github.com/zoglauer/megalib) via the COSI simulation pipepline ([cosi-sim](https://github.com/cositools/cosi-sim)). Details regarding the specific MEGAlib versions can be found in each respective data challenge directory. Inputs for the simulations and the corresponding data challenges come from the COSI science team. All of the models used for past data challenges can be found in the source library of the cosi-sim tools ([link](https://github.com/cositools/cosi-sim)).   
 
 ## Executive Summary of Current and Past Challenges 
 - **[Data Challenge 1](cosi-data-challenge-1):**
