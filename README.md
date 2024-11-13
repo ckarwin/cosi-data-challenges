@@ -20,6 +20,8 @@
 - [Computing Resources](#computing-resources)
 - [Simulation Tools](#simulation-tools)
 - [Summary of Past Challenges](#summary-of-past-challenges)
+- [Useful Reference Guides](#useful-reference-guides)
+- [Citing](#citing)
 
 ## Introduction
 The COSI data challenges are released on a yearly basis in preparation for the launch of the COSI SMEX mission. They are based on simulated data, which is intended to closely mimic the real flight data. Every year the data challenges have increasingly more realistic source and background models, and they are analyzed with increasingly complete and matured analysis tools. In general there are two main goals of the data challenges:
@@ -57,3 +59,7 @@ The simulations for the COSI data challenges are ran on high performance computi
 ## Simulation Tools
 
 ## Summary of Past Challenges 
+
+## Useful Reference Guides
+
+## Citing 
