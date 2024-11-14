@@ -73,7 +73,7 @@ The simulations employ [MEGAlib](https://github.com/zoglauer/megalib) via the Py
 
 ## Executive Summary of Current and Past Challenges 
 - **[Data Challenge 1](cosi-data-challenge-1):**
-  - Focus: 2016 COSI Balloon flight.
+  - Focused on the 2016 COSI Balloon flight.
   - Release includes real flight data for the Crab.
   - Main goal: learn the fundamentals of analyzing Compton data with COSI.
   - The analysis tools used for DC1 are only preliminary (referred to as cosipy classic).
