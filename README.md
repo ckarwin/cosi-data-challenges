@@ -47,8 +47,6 @@ As specified at the top of the page, the most recent release is [cosi-data-chall
 
 Alternatively, this repository also contains all past data challenges, as specified in the [Releases](#releases) section below. Each released data challenge is self-contained, and you will find everything you need to get started in the respective directory. 
 
-Finally, this home page contains a lot of useful information about the different data challenges, and so it's recommended to familiarize yourself with the available content. 
-
 ## System Requirements
 One of our goals in developing cosipy is to make it easily accesible to all users. **All of the data challenges starting with DC2 should be doable on a laptop with at least 16 GB of RAM**. We are still working on optimizing the code, and so please let us know if you are running into memory issues. 
 
