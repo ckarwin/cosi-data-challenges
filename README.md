@@ -38,12 +38,12 @@ For new users, copy the COSI Data Challenges repository as follows:
 ```
 git clone https://github.com/cositools/cosi-data-challenges.git
 ```
-If you've already cloned the repository in the past, then simply update it if you need the latest release:
+If you've already cloned the repository in the past, then simply update it to get the latest release:
 ```
 cd your/path/cosi-data-challenges
 git pull
 ```
-As specified at the top of the page, the most recent release is [cosi-data-challenge-2](cosi-data-challenge-2). Everything you need for this data challenge is contained in the linked directory (which can also be found at the top of the page). Head there to get started!
+As specified at the top of the page, the most recent release is [cosi-data-challenge-2](cosi-data-challenge-2). Everything you need for this data challenge is contained in the linked directory. Head there to get started!
 
 Alternatively, this repository also contains all past data challenges, as specified in the [Releases](#releases) section below. Each released data challenge is self-contained, and you will find everything you need to get started in the respective directory. 
 
