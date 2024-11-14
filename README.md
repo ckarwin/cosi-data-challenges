@@ -75,20 +75,20 @@ The simulations employ [MEGAlib](https://github.com/zoglauer/megalib) via the Py
 - **[Data Challenge 1](cosi-data-challenge-1):**
   - Focused on the 2016 COSI Balloon flight.
   - Release includes real flight data for the Crab.
-  - Main goal: learn the fundamentals of analyzing Compton data with COSI.
+  - Main goal is to learn the fundamentals of analyzing Compton data with COSI.
   - The analysis tools used for DC1 are only preliminary (referred to as cosipy classic).
     - Developed by Thomas Siegert for analysis of the 2016 balloon data. 
   - Contains 3 straightforward examples of COSI’s science goals:
-    - Extracting energy spectra from the Crab, Cen A, Cygnus X-1, and Vela
+    - Extracting energy spectra from the Crab, Cen A, Cygnus X-1, and Vela.
     - Imaging bright point sources, such as the Crab and Cygnus X-1.
     - Imaging diffuse emission from the positron-electron annihilation 511 keV and Al-26 1.8 MeV gamma-ray lines.
 - **[Data Challenge 2](cosi-data-challenge-2):**
   - Focused on COSI SMEX mission.
   - First (alpha) release of cosipy. 
-  - Data challenges for all the main science groups (none for dark matter and solar)
+  - Data challenges for all the main science groups (none for dark matter and solar).
   - All models and challenges provided by respective COSI science teams.
   - Uses 3 months of observations, for an equatorial orbit at 550 km, with a zenith pointing. 
-  - All BG components are included, except for SAA passage (i.e. trapped particles).
+  - All BG components are included, except for SAA passage (i.e. trapped cosmic rays).
     - BG also includes time variability from changing geomagnetic cutoff.
   - We simulated 12 background components, and 30 unique sources, running 49 different source simulations in total (using multiple models for some of the sources).
   - Contains 7 main tutorials demonstrating all the tools/methods needed for completing the challenges, included as part of the cosipy release:
@@ -101,11 +101,10 @@ The simulations employ [MEGAlib](https://github.com/zoglauer/megalib) via the Py
     - 511 imaging
 - **[Data Challenge 3](cosi-data-challenge-3):**
   - Focused on COSI SMEX mission.
-  - First (alpha) release of cosipy. 
-  - Data challenges for all the main science groups (including for dark matter and solar), covering all of COSI's primary science objectives. 
+  - Data challenges for all the main science groups (including dark matter and solar), covering all of COSI's primary science objectives. 
   - All models and challenges provided by respective COSI science teams.
   - Uses 3 months of observations, for an equatorial orbit at 530 km.
-  - Simulations include rocking of instruement.
+  - Simulations include rocking of instruement:
     - Pointing changes between +/- 22 degrees every 12 hrs, with 8 minute transition time. 
   - Using detailed COSI SMEX mass model.
   - Simulating all background components in low-Earth orbit, including variability from geomagnetic cutoff, long-term buildup, and full SAA passage.
@@ -117,7 +116,7 @@ The simulations employ [MEGAlib](https://github.com/zoglauer/megalib) via the Py
     - New implementation of Earth occultation in detector response.
     - First polarization tools.
     - New methods to estimate the background for continuum sources, line sources, and transient sources.
-    - Refinements and furhter developments of imaging class.
+    - Refinements and further developments of imaging class.
     - New Extended source response class.
 ## Useful Reference Guides
 - **General Introduction to analyzing data from a Compton telescopes and the Compton data space:**
