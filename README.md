@@ -103,11 +103,11 @@ The simulations employ [MEGAlib](https://github.com/zoglauer/megalib) via the Py
   - Focused on COSI SMEX mission.
   - Data challenges for all the main science groups (including dark matter and solar), covering all of COSI's primary science objectives. 
   - All models and challenges provided by respective COSI science teams.
-  - Uses 3 months of observations, for an equatorial orbit at 530 km.
+  - Used 3 months of observations, for an equatorial orbit at 530 km.
   - Simulations include rocking of instruement:
     - Pointing changes between +/- 22 degrees every 12 hrs, with 8 minute transition time. 
-  - Using detailed COSI SMEX mass model.
-  - Simulating all background components in low-Earth orbit, including variability from geomagnetic cutoff, long-term buildup, and full SAA passage.
+  - Used detailed COSI SMEX mass model.
+  - Simulated all background components in low-Earth orbit, including variability from geomagnetic cutoff, long-term buildup, and full SAA passage.
     - Background includes the Galactic diffuse continuum for the first time. 
   - New methods in both MEGAlib and cosipy to account for Earth occultation with a non-zenith pointing. 
   - First time including polarization.
