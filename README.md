@@ -125,7 +125,7 @@ The simulations employ [MEGAlib](https://github.com/zoglauer/megalib) via the Py
   - [cosi-data-challenge-1/cosi_2016_balloon_data](cosi-data-challenge-1/cosi_2016_balloon_data)
 - **General Introduction to cosipy:**
   - [cosi-data-challenge-2/cosipy-intro](cosi-data-challenge-2/cosipy-intro)
- - **Executive summary of the background simulations from data challenge 2:**
+ - **Summary of the background simulations from data challenge 2:**
    - [cosi-data-challenge-2/backgrounds](cosi-data-challenge-2/backgrounds) 
 
 ## Citing 
